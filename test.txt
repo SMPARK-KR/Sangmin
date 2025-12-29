@@ -1,1 +1,2 @@
-test
+git config-global user.name "SSANGMY"
+git config-global user.email "sangmin970@naver.com
